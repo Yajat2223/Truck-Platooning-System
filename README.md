@@ -9,12 +9,12 @@ This system enables multiple vehicles to move in a coordinated convoy under the 
 ## ⚙️ Components Used
 
 | Component |                                                |Purpose |
-| Arduino Uno (ATmega328P) |                    |Main microcontroller |
-| L298N Motor Driver |                                  |Motor speed & direction control |
-| HC-SR04 Ultrasonic Sensor |                  |Inter-vehicle distance measurement |
-| IR Sensors (Left & Right) |                        |Directional tracking |
-| HC-05 Bluetooth Module |                        |Wireless communication |
-| DC Motors + Robot Chassis |                  |Locomotion |
+| Arduino Uno (ATmega328P) |                                 |Main microcontroller |
+| L298N Motor Driver |                                       |Motor speed & direction control |
+| HC-SR04 Ultrasonic Sensor |                                |Inter-vehicle distance measurement |
+| IR Sensors (Left & Right) |                                |Directional tracking |
+| HC-05 Bluetooth Module |                                   |Wireless communication |
+| DC Motors + Robot Chassis |                                |Locomotion |
 
 ## 🔧 How It Works
 
